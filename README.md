@@ -9,6 +9,9 @@
  - Robotics<br>
  - Game Dev<br>
  - App Dev<br>
+ - And in general Science and Technology<br>
+
+ Hence the name STAR[***S**cience **T**echnology **A**nd **R**obotics*] 
 
 ## Skills:
 - Languages
@@ -20,6 +23,8 @@
 - Arduino
 - Raspberry Pi
 - ML
+- 3D Designing[Blender]
+- 2D Designing
 
 ## Links
 [I Make Games](https://s-t-a-r-game.itch.io/)
