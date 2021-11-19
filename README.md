@@ -22,9 +22,10 @@
 - Unity Game Engine
 - Arduino
 - Raspberry Pi
-- ML
+- Machine Learning, Deep Learning
 - 3D Designing[Blender]
 - 2D Designing
+- Android Development(Flutter)
 
 ## Links
 
