@@ -30,8 +30,9 @@
 ## Links
 
 
-[<img src="https://github.com/mathew4STAR/mathew4STAR/blob/main/staronemoregithub.png" width="300" >](https://s-t-a-r-game.itch.io/)
+[<img src="https://github.com/mathew4STAR/mathew4STAR/blob/main/staronemoregithub2.png" width="300" >](https://s-t-a-r-game.itch.io/)
 [<img src="https://github.com/mathew4STAR/mathew4STAR/blob/main/mail.png" width="100" >](mailto:mathewph249@gmail.com)
+
 <!---
 Star-Code6/Star-Code6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
