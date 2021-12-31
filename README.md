@@ -20,8 +20,11 @@
   - C++
   - Little bit of some other languages
 - Unity Game Engine
-- Arduino
-- Raspberry Pi
+- IOT
+   - Arduino
+   - Raspberry Pi
+   - Node MCU
+   - etc
 - Machine Learning, Deep Learning
 - 3D Designing[Blender]
 - 2D Designing
