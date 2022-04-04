@@ -26,7 +26,7 @@
    - Node MCU
    - etc
 - Machine Learning, Deep Learning
-- 3D Designing[Blender]
+- 3D Designing(Blender)
 - 2D Designing
 - Android Development(Flutter)
 
