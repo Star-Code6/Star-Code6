@@ -24,6 +24,7 @@
    - Arduino
    - Raspberry Pi
    - Node MCU
+   - ROS 2 
    - etc
 - Machine Learning, Deep Learning
 - 3D Designing(Blender)
